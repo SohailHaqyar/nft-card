@@ -1,0 +1,104 @@
+@media (max-width: 375px) {
+
+}
+
+body {
+    background-color: hsl(217, 54%, 11%);
+}
+
+.container {
+    width: 350px;
+    height: 600px;
+    background-color: hsl(216, 50%, 16%);
+    margin: 5% auto;
+    display: grid;
+    border-radius: 15px;
+}
+
+.top-screen {
+    width: 300px;
+    height: 270px;
+    margin: 25px auto 0 auto;
+    border-radius: 15px;
+
+}
+
+.content {
+    width: 300px;
+    height: 100px;
+    text-align: left;
+    margin: 0 auto;
+}
+
+
+img {
+    border-radius: 15px;
+}
+
+
+.title {
+    color: hsl(0, 0%, 100%);
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Outfit', sans-serif;
+}
+
+.h1 {
+    color: hsl(215, 51%, 70%);
+    font-size: 15px;
+    font-weight: 200;
+    font-family: 'Outfit', sans-serif;
+
+}
+
+.footer {
+    width: 300px;
+    height: 80px;
+    margin: 10px auto;
+}
+
+.eth {
+    color: hsl(178, 100%, 50%);
+    font-size: 13px;
+    font-weight: 300;
+}
+
+.content-footer {
+    display: flex;
+    align-content: space-around;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 50%;
+    height: 20%;
+    display: flex;
+    margin: auto 5px;
+}
+
+.img-div {
+    margin: 0 20px
+}
+
+span {
+    color: hsl(0, 0%, 100%);
+}
+
+.author-name {
+    font-family: 'Outfit', sans-serif;
+    color: hsl(215, 51%, 70%);
+}
+
+.day {
+    font-family: 'Outfit', sans-serif;
+    color: hsl(215, 51%, 70%);
+    font-size: 13px;
+}
+
+.clock-icon {
+    margin: 0 0 0 130px;
+}
+
